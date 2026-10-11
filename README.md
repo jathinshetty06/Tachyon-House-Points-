@@ -6,6 +6,10 @@ An interactive house-points management application that tracks scores and ranks 
 
 Tachyon has four houses that earn points through competitions and activities. This application records points, calculates house rankings, and displays the winning house.
 
+## Live Demo
+
+Try the application here: **[Tachyon House Points — Live Website](PASTE-YOUR-GITHUB-PAGES-URL-HERE)**
+
 ## Features
 
 ### 1. House Points Management
