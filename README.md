@@ -8,7 +8,7 @@ Tachyon has four houses that earn points through competitions and activities. Th
 
 ## Live Demo
 
-Try the application here: **[Tachyon House Points — Live Website](PASTE-YOUR-GITHUB-PAGES-URL-HERE)**
+Try the application here: **[Tachyon House Points — Live Website]((https://jathinshetty06.github.io/Tachyon-House-Points-/))**
 
 ## Features
 
